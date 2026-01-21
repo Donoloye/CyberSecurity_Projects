@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - [Enterprise Security Operations Center (SOC) infrastructure using VirtualBox] (https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Active Directory Home Lab] (https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Enterprise-grade Security Operations Center (SOC) infrastructure using VirtualBox] (https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Enterprise-grade Security Operations Center (SOC) infrastructure using VirtualBox] (https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Enterprise-grade Security Operations Center (SOC) infrastructure using VirtualBox] (https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Enterprise-grade Security Operations Center (SOC) infrastructure using VirtualBox] (https://github.com/joshmadakor1/Algorithms-Practice)
+  - SOC-infrastructure-using-VirtualBox] (https://github.com/Donoloye/SOC-infrastructure-using-VirtualBox)
+  - Active Directory Home Lab] (https://github.com/joshmadakor1/Algorithms-Practice)
+  - Enterprise-grade Security Operations Center (SOC) infrastructure using VirtualBox] (https://github.com/joshmadakor1/Algorithms-Practice)
+  - Enterprise-grade Security Operations Center (SOC) infrastructure using VirtualBox] (https://github.com/joshmadakor1/Algorithms-Practice)
+  - Enterprise-grade Security Operations Center (SOC) infrastructure using VirtualBox] (https://github.com/joshmadakor1/Algorithms-Practice)
+  - Enterprise-grade Security Operations Center (SOC) infrastructure using VirtualBox] (https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
